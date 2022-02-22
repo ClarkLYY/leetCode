@@ -2,6 +2,9 @@ package leetcode.hot100;
 
 import leetcode.ListNode;
 
+/**
+ * 两数相加，链表，注意进位
+ */
 public class Solution02 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int carry =0;

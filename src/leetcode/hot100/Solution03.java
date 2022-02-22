@@ -2,6 +2,9 @@ package leetcode.hot100;
 
 import java.util.HashSet;
 
+/**
+ * 最长无重复子串，滑动窗口
+ */
 public class Solution03 {
     public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
