@@ -3,6 +3,9 @@ package leetcode.hot100;
 import java.util.Deque;
 import java.util.LinkedList;
 
+/**
+ * 滑动窗口的最大值，双端队列
+ */
 public class Solution239 {
     public int[] maxSlidingWindow(int[] nums, int k) {
         Deque<Integer> deque = new LinkedList<>();
