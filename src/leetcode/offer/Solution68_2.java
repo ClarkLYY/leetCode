@@ -1,6 +1,6 @@
 package leetcode.offer;
 
-import leetcode.TreeNode;
+import leetcode.common.tree.TreeNode;
 
 /**
  * 二叉树寻找两个节点的最近祖先

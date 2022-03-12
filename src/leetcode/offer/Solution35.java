@@ -1,6 +1,6 @@
 package leetcode.offer;
 
-import leetcode.Node;
+import leetcode.common.list.Node;
 
 import java.util.HashMap;
 

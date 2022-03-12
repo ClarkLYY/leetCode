@@ -1,6 +1,6 @@
 package leetcode.offer;
 
-import leetcode.TreeNode;
+import leetcode.common.tree.TreeNode;
 
 /**
  * 二叉搜索树寻找倒数第k大的值

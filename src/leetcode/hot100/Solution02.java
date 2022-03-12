@@ -1,6 +1,6 @@
 package leetcode.hot100;
 
-import leetcode.ListNode;
+import leetcode.common.list.ListNode;
 
 /**
  * 两数相加，链表，注意进位

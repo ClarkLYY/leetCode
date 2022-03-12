@@ -1,6 +1,6 @@
 package leetcode.offer;
 
-import leetcode.TreeNode;
+import leetcode.common.tree.TreeNode;
 
 /**
  * 二叉搜索树，直接根据root值和p、q的值判断
